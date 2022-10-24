@@ -1,0 +1,126 @@
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EBC7E8;
+}
+
+.header {
+    text-align: center;
+    overflow: hidden;
+    font-family: Arial Narrow;
+    background-color: #FF87CA;
+    background-size: cover;
+    border-radius: 25px;
+    width: 70%;
+    padding-left: 3%;
+    padding-right: 3%%;
+    margin:  0 auto;
+}
+
+header h1{
+    padding-top: 7px;
+    padding-left: 260px;
+}
+
+
+.bio {
+    text-align: center;
+    font-size: 23px;
+    background-size: cover;
+    width: 80%;
+    padding-left: 10%;
+}
+
+.thisme {
+    text-align: left;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.thisme biodata {
+    border-radius: 20px;
+    text-align: center;
+    background-image: url("C:/Proyek Website DTPI (Zelda Najla A - 2206819842)/image/background5.jpg");
+}
+
+.biodata li {
+    margin: 13px;
+    margin-top: 2%;
+    border-radius: 20px;
+    background-color: #FFABE1;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-bottom: 2%;
+    background-size: cover;
+    padding-bottom: 0 auto;
+}
+
+.biodata img {
+    width: 320px;
+    height: 320px;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-right: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: transparent;
+}
+
+.biodata ul {
+    float: right;
+    margin-right: 90px;
+    width: 580px;
+}
+
+
+.biodata {
+    margin: 30px;
+    margin-top: 30px;
+    border-radius: 40px;
+    background-color: #FFABE1;
+}
+
+.list a {
+  float: left;
+  display: block;
+  color: darkblue;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-family: Arial Rounded MT Bold;
+}
+
+.list; a:hover {
+  background-color: #533535;
+  color: white;
+}
+
+.active {
+  background-color: #F0D9FF;
+  border-left: 2px solid violet;
+  border-right: 2px solid violet;
+}
+
+img{
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Cooper Black;
+    font-color: #3AB0FF;
+    text-shadow: 2px 2px 2px white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: arial rounded mt bold;
+}

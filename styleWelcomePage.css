@@ -1,0 +1,86 @@
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFD6EC;
+}
+
+.header {
+    text-align: center;
+    overflow: hidden;
+    font-family: Arial Narrow;
+    background-color: #FF87CA;
+    background-size: cover;
+    border-radius: 25px;
+    width: 70%;
+    padding-left: 3%;
+    padding-right: 3%%;
+    margin:  0 auto;
+}
+
+header h1{
+    padding-top: 7px;
+    padding-left: 260px;
+}
+
+.slide1 {
+    border-radius: 30px;
+    width: 500px;
+    height: 320px;
+    padding-top: 3%;
+    border-radius: 25%;
+    padding-right: 70%;
+    padding-left: 28%;
+}
+
+.slide2 {
+    border-radius: 30px;
+    width: 500px;
+    height: 320px;
+    padding-top: 1%;
+    border-radius: 25%;
+    margin-right: 70%;
+    margin-left: 28%;
+}
+
+.list a {
+  float: left;
+  display: block;
+  color: darkblue;
+  text-align: center;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-family: Arial Rounded MT Bold;
+}
+
+.list; a:hover {
+  background-color: #533535;
+  color: white;
+}
+
+.active {
+  background-color: #F0D9FF;
+  border-left: 2px solid violet;
+  border-right: 2px solid violet;
+}
+
+img{
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Cooper Black;
+    font-color: #3AB0FF;
+    text-shadow: 2px 2px 2px white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: arial rounded mt bold;
+}
